@@ -121,7 +121,6 @@ namespace Reproductor
                     Lista_Reproduccion.Items.Add(item);
                 }
 
-                songidx = songidx == 0 ? songidx : 0 ;
 
                 if (!playing)
                 {
